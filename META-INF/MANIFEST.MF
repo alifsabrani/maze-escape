@@ -1,0 +1,2 @@
+Main-Class: View
+Manifest-Version: 1.0
